@@ -8,5 +8,4 @@ echo "ganesh ambati"
 echo "ganesh ambati"
 echo "1"
 echo "111111111354465767811"
-echo "11111111111"
 
