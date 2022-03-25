@@ -6,6 +6,6 @@ echo "====================="
 echo "The $OS running"
 echo "ganesh ambati"
 echo "ganesh ambati"
-echo "1"
+echo "1safsdfsdfdsfsd"
 echo "111111111354465767811"
 
